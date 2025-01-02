@@ -1,0 +1,53 @@
+
+nav a{
+  
+    padding: 15px;
+    
+}
+
+
+.t1{
+ border: 2px;
+ border-collapse: collapse;
+ border-color: red;
+}
+
+.forlegends{
+    color:darkcyan;
+    font-weight: bold;
+    text-decoration: dotted;
+    text-decoration-color: blueviolet;
+}
+
+a:hover{
+    background-color: lightsalmon;
+    color: darkmagenta;
+}
+img{
+    height: 75px;
+    width:75px;
+    border:2px solid red;
+    
+
+}
+#p1::first-letter{
+    color: darkorchid;
+    font-size: 30px;
+}
+.forhoverfooter:hover
+{
+    background-color: lightsalmon;
+    color: darkmagenta;
+}
+
+.trow:hover{
+ background-color: orange;
+ color: blueviolet;
+}
+.title{
+    font-size: 15x;
+    font-family:'monospace';
+    font-weight: bolder;
+    color: blue;
+}
+
